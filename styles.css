@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.choice {
+    font: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.hidden_red {
+    text-align: center;
+}
+
+.hidden_blue {
+    text-align: center;
+}
